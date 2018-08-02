@@ -10,6 +10,12 @@ namespace WorkingWithStrings
     {
         static void Main(string[] args)
         {
+            //string myString = "My \"so-called\" life";
+            //string myString = "What if I need a\new line?";
+
+
+            Console.WriteLine(myString);
+            Console.ReadLine();
         }
     }
 }
